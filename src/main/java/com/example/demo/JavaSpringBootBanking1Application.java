@@ -10,4 +10,5 @@ public class JavaSpringBootBanking1Application {
 		SpringApplication.run(JavaSpringBootBanking1Application.class, args);
 	}
 
+
 }
